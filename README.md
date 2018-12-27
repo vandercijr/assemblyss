@@ -1,2 +1,2 @@
 # assemblyss
-Studying Assembly x86 architecture
+Studying Assembly for x86 architecture
